@@ -1,0 +1,32 @@
+PHP practical file questions:
+
+1. Create a PHP script to display "Hello, World!".
+2. Write a PHP function to calculate the factorial of a number.
+3. Develop a PHP program to find the largest element in an array.
+4. Implement a PHP script to validate an email address.
+5. Create a PHP function to reverse a string.
+6. Write a PHP program to check if a number is prime.
+7. Develop a PHP script to sort an array in ascending order.
+8. Implement a PHP function to generate a random password.
+9. Create a PHP program to upload a file to the server.
+10. Write a PHP script to connect to a MySQL database.
+11. Develop a PHP function to calculate the sum of digits in a number.
+12. Implement a PHP program to calculate the area of a circle.
+13. Create a PHP script to validate a URL.
+14. Write a PHP function to count the number of occurrences of a word in a string.
+15. Develop a PHP program to generate a Fibonacci sequence.
+16. Implement a PHP script to handle form data and display it.
+17. Create a PHP function to check if a string is a palindrome.
+18. Write a PHP program to convert temperature from Celsius to Fahrenheit and vice versa.
+19. Develop a PHP script to extract data from a JSON file.
+20. Implement a PHP function to find the length of the longest word in a sentence.
+21. Create a PHP program to calculate the factorial of a large number using recursion.
+22. Write a PHP script to validate a date in YYYY-MM-DD format.
+23. Develop a PHP function to check if a number is even or odd.
+24. Implement a PHP program to calculate the sum of all even numbers between 1 and 100.
+25. Create a PHP script to generate a simple captcha image.
+26. Write a PHP function to convert a string to uppercase without using built-in functions.
+27. Develop a PHP program to find the second largest element in an array.
+28. Implement a PHP script to display a countdown timer.
+29. Create a PHP function to remove duplicates from an array.
+30. Write a PHP program to generate a random quote from a predefined list.
